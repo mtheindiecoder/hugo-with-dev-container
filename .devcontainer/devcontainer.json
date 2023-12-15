@@ -10,7 +10,7 @@
 		"ghcr.io/devcontainers/features/hugo:1": {},
 		"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
 	},
-	"postCreateCommand": "hugo server",
+	"postStartCommand": "hugo server",
 
 	// Configure tool-specific properties.
 	"customizations": {
