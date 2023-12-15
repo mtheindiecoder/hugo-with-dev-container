@@ -1,0 +1,11 @@
+theme = "just-me"
+
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Hugo Website with Dev Container"
+
+[params]
+  author = "The Indie Coder"
+  author_link = "theindiecoder.cloud"
